@@ -1,0 +1,1 @@
+O 6 e o 7 andam a pé e de carro e conversam pelo caminho.
