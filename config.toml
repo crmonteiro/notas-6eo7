@@ -1,13 +1,13 @@
 
-baseURL = "https://oseiseosete.netlify.app""
+baseURL = "https://oseiseosete.netlify.app"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "o 6 e o 7 a pé ou de carro"
+title = "o seis e o sete a pé ou de carro"
 author = "Cláudia Monteiro"
-copyright = "Copyright © 2020, Cláudia Monteiro."
+copyright = "Copyright © 2020, Jane Doe."
 languageCode = "pt-pt"
 
 # Generate a nice robots.txt for SEO
@@ -22,7 +22,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "O 6 e o 7 andam a pé e de carro. Talvez encontrem os nomes."
+  description = "o seis e o sete a pé ou de carro. devem encontrar os nomes pelo caminho."
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -37,7 +37,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "o 6 e o 7"
+  title = "o seis e o sete"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
